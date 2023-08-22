@@ -41,7 +41,7 @@ More paper will be updated soon.
 
 ## **Prediction**
 ### **Weather Prediction**
--  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://arxiv.org/abs/2308.03152)]
+-  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://www.researchgate.net/publication/372961184_AI-GOMS_Large_AI-Driven_Global_Ocean_Modeling_System)]
 -  [**2023 | Nature**] Accurate medium-range global weather forecasting with 3D neural networks [[paper](https://www.nature.com/articles/s41586-023-06185-3)][[code](https://github.com/198808xc/Pangu-Weather)]
 -  [**2023 | Nature | Precipitation**] Skilful nowcasting of extreme precipitation with NowcastNet [[paper](https://www.nature.com/articles/s41586-023-06184-4)][[code](https://codeocean.com/capsule/3935105/tree/v1)]
 -  [**2023 | Nature Machine Intelligence | Precipitation**] Interpretable weather forecasting for worldwide stations with a unified deep model [[paper](https://www.nature.com/articles/s42256-023-00667-9)][[code](https://github.com/thuml/Corrformer)]
@@ -71,7 +71,7 @@ More paper will be updated soon.
 ### **Others**
 ## **Modeling**
 ### **Core**
--  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://arxiv.org/abs/2308.03152)]
+-  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://www.researchgate.net/publication/372961184_AI-GOMS_Large_AI-Driven_Global_Ocean_Modeling_System)]
 -  [**2022 | Academic Dissertation**] Scientific Machine Learning for Dynamical Systems: Theory and Applications to Fluid Flow and Ocean Ecosystem Modeling [[paper](http://mseas.mit.edu/publications/PDF/gupta_phd_thesis_2022_09abs.pdf)]
 -  [**2022 | Marine Science and Engineering**] Improving Ocean Forecasting Using Deep Learning and Numerical Model Integration [[paper](https://www.mdpi.com/2077-1312/10/4/450)]
 -  [**2022 | Earth and Space Science**] Improving Numerical Model Predicted Float Trajectories by Deep Learning [[paper](https://doi.org/10.1029/2022EA002362)]
