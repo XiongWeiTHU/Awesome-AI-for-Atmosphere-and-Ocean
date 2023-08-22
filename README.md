@@ -1,6 +1,7 @@
 # **Awesome AI for Atmosphere and Ocean**
 A collection of research papers on AI for Atmospheric Science and Oceanography. 
 If you find some ignored papers, please open issues or pull requests. I'll be appreciated it.
+More paper will be updated soon.
 
 ## **Contents**
   - [**Overview**](##overview)
