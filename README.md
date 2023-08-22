@@ -14,6 +14,7 @@ More paper will be updated soon.
     - [**Core**](#core)
     - [**Parameterization**](#parameterization)
     - [**Downscalling**](#downscalling)
+    - [**Correction**](#correction)
   - [**Discovery**](#discovery)
     - [**Theory Discovery**](#theory-discovery)
     - [**Phenomenon Identification**](#phenomenon-identification)
