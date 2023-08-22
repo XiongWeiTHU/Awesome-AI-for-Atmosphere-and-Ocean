@@ -10,6 +10,7 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
     - [**Climate**](#climate)
     - [**Others**](#others)
   - [**Modeling**](#modeling)
+    - [**Core**](#core)
     - [**Parameterization**](#parameterization)
     - [**Downscalling**](#downscalling)
   - [**Discovery**](#discovery)
@@ -68,6 +69,7 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
 -  [**2020 | Nature Scientific Report | India Ocean Dipole**] A machine learning based prediction system for the Indian Ocean Dipole [[paper](https://www.nature.com/articles/s41598-019-57162-8)]
 ### **Others**
 ## **Modeling**
+### **Core**
 -  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://arxiv.org/abs/2308.03152)]
 -  [**2022 | Academic Dissertation**] Scientific Machine Learning for Dynamical Systems: Theory and Applications to Fluid Flow and Ocean Ecosystem Modeling [[paper](http://mseas.mit.edu/publications/PDF/gupta_phd_thesis_2022_09abs.pdf)]
 -  [**2022 | Marine Science and Engineering**] Improving Ocean Forecasting Using Deep Learning and Numerical Model Integration [[paper](https://www.mdpi.com/2077-1312/10/4/450)]
@@ -82,7 +84,6 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
 -  [**2019 | JAMES**] Prognostic Validation of a Neural Network Unified Physics Parameterization [[paper](https://doi.org/10.1029/2018MS001472)]
 -  [**2018 | Geophysical Research Letters**] Prognostic Validation of a Neural Network Unified Physics Parameterization [[paper](https://doi.org/10.1029/2018GL078510)]
 -  [**2018 | PNAS**] Deep learning to represent subgrid processes in climate models [[paper](https://doi.org/10.1073/pnas.181028611)]
-
 
 ### **Downscalling**
 -  [**2022 | ASCMO**] Deep learning for statistical downscaling of sea states [[paper](https://ascmo.copernicus.org/articles/8/83/2022/)]
