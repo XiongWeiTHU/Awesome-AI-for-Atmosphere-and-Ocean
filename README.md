@@ -10,7 +10,12 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
     - [**Climate**](#climate)
     - [**Others**](#others)
   - [**Modeling**](#modeling)
+    - [**Parameterization**](#parameterization)
+    - [**Downscalling**](#downscalling)
   - [**Discovery**](#discovery)
+    - [**Theory Discovery**](#theory-discovery)
+    - [**Phenomenon Identification**](#phenomenon-identification)
+    - [**Data Complement**](#data-complement)
   - [**Benchmarks**](#benchmarks)
   - [**Others**](#others)
 
@@ -103,6 +108,7 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
 -  [**2019 | JGR Oceans**] El Niño Detection Via Unsupervised Clustering of Argo Temperature Profiles [[paper](https://doi.org/10.1029/2019JC015947)]
 -  [**2006 | International Journal of Remote Sensing**] Identification of eddies from sea surface temperature maps with neural networks [[paper](https://doi.org/10.1080/01431160500462170)]
 ### **Data Complement**
+-  [**2023 | Science Bulletin**] Super-resolution reconstruction of a 3 arc-second global DEM dataset [[paper](https://www.researchgate.net/publication/365644013_Super-resolution_reconstruction_of_a_3_arc-second_global_DEM_dataset)]
 -  [**2020 | Remote Sensing**] A Deep Learning Network to Retrieve Ocean Hydrographic Profiles from Combined Satellite and In Situ Measurements [[paper](https://doi.org/10.3390/rs12193151)]
 -  [**2020 | JAMES**] A Deep Learning Approach to Spatiotemporal Sea Surface Height Interpolation and Estimation of Deep Currents in Geostrophic Ocean Turbulence [[paper](https://doi.org/10.1029/2019MS001965)]
 -  [**2019 | Atmos. Chem. Phys.**] On the distinctiveness of observed oceanic raindrop distributions [[paper](https://acp.copernicus.org/articles/19/6969/2019/)]
