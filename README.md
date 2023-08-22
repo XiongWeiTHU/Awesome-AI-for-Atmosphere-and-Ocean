@@ -90,17 +90,13 @@ More paper will be updated soon.
 -  [**2021 | JAMES**] Machine Learning the Warm Rain Process [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002268)]
 -  [**2020 | JAMES**] A Moist Physics Parameterization Based on Deep Learning [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002076)]
 -  [**2018 | Geophysical Research Letters**] Could Machine Learning Break the Convection Parameterization Deadlock? [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078202)]
-
 #### **Turbulence**
 -  [**2021 | Deep Learning for the Earth Sciences**] Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch20)]
 -  [**2019 | PNAS**] Deep learning in turbulent convection networks [[paper](https://www.pnas.org/doi/10.1073/pnas.1900358116)]
-
 #### **Boundary Layer**
 -  [**2023 | JAMES**] Deep Learning Parameterization of the Tropical Cyclone Boundary Layer [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003034)]
-
 #### **Radiative Transfer**
 -  [**2022 | JAMES**] Exploring pathways to more accurate machine learning emulation of atmospheric radiative transfer [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002875)]
-
 #### **Others**
 -  [**2022 | NSR**] Physics-informed deep-learning parameterization of ocean vertical mixing improves climate simulations [[paper](https://doi.org/10.1093/nsr/nwac044)]
 
