@@ -105,6 +105,8 @@ More paper will be updated soon.
 -  [**2022 | JGR Solid Earth**] Applying a Deep Learning Algorithm to Tsunami Inundation Database of Megathrust Earthquakes [[paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JB019690)]
 -  [**2021 | JAMES**] A Comparison of Data-Driven Approaches to Build Low-Dimensional Ocean Models [[paper](https://doi.org/10.1029/2021MS002537)]
 
+### **Correction**
+-  [**2022 | JAMES**] Correcting Coarse-Grid Weather and Climate Models by Machine Learning From Global Storm-Resolving Simulations [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002794)]
 
 ## **Discovery**
 ### **Theory Discovery**
