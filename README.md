@@ -17,6 +17,7 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
 ## **Overview**
 -  [**2023 | EGUsphere**] Machine Learning for numerical weather and climate modelling: a review [[paper](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-350/)]
 -  [**2023 | ArXiv**] The rise of data-driven weather forecasting [[paper](https://arxiv.org/abs/2307.10128)]
+-  [**2022 | Deep Sea Research Part I**] Deep blue AI: A new bridge from data to knowledge for the ocean science [[paper](https://doi.org/10.1016/j.dsr.2022.103886)]
 -  [**2022 | Ocean-Land-Atmosphere Research**] Recent developments in artificial intelligence in oceanography [[paper](https://downloads.spj.sciencemag.org/olar/2022/9870950.pdf)]
 -  [**2022 | Environment Research Letters**] Machine learning applications for weather and climate need greater focus on extremes [[paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac9d4e/meta)]
 -  [**2021 | Atmosphere**] Survey on the Application of Deep Learning in Extreme Weather Prediction [[paper](https://www.mdpi.com/2073-4433/12/6/661)]
