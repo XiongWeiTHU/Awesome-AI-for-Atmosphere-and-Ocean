@@ -20,6 +20,7 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
 -  [**2022 | Deep Sea Research Part I**] Deep blue AI: A new bridge from data to knowledge for the ocean science [[paper](https://doi.org/10.1016/j.dsr.2022.103886)]
 -  [**2022 | Ocean-Land-Atmosphere Research**] Recent developments in artificial intelligence in oceanography [[paper](https://downloads.spj.sciencemag.org/olar/2022/9870950.pdf)]
 -  [**2022 | Environment Research Letters**] Machine learning applications for weather and climate need greater focus on extremes [[paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac9d4e/meta)]
+-  [**2021 | Remote Sensing**] Artificial Intelligence Revolutionises Weather Forecast, Climate Monitoring and Decadal Prediction [[paper](https://www.mdpi.com/2072-4292/13/16/3209)]
 -  [**2021 | Atmosphere**] Survey on the Application of Deep Learning in Extreme Weather Prediction [[paper](https://www.mdpi.com/2073-4433/12/6/661)]
 -  [**2021 | Big Data Research**] Deep Learning-Based Weather Prediction: A Survey [[paper](https://doi.org/10.1016/j.bdr.2020.100178)]
 -  [**2021 | Multimedia Systems**] Application of machine learning in ocean data [[paper](https://link.springer.com/article/10.1007/s00530-020-00733-x)]
@@ -94,7 +95,7 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
 -  [**2021 | JAMES**] Revealing the Impact of Global Heating on North Atlantic Circulation Using Transparent Machine Learning [[paper](https://doi.org/10.1029/2021MS002496)]
 -  [**2020 | JGR Oceans**] Water Mass and Biogeochemical Variability in the Kerguelen Sector of the Southern Ocean: A Machine Learning Approach for a Mixing Hot Spot [[paper](https://doi.org/10.1029/2019JC015877)]
 -  [**2020 | Geophysics Review Letters**] Data-Driven Equation Discovery of Ocean Mesoscale Closures [[paper](https://doi.org/10.1029/2020GL088376)]
--  [**2019 | Nature Scientifc Report**] Estimating global ocean heat content from tidal magnetic satellite observations [[paper](https://www.nature.com/articles/s41598-019-44397-8)]
+-  [**2019 | Nature Scientific Report**] Estimating global ocean heat content from tidal magnetic satellite observations [[paper](https://www.nature.com/articles/s41598-019-44397-8)]
 -  [**2017 | JAMES**] Coherent heat patterns revealed by unsupervised classification of Argo temperature profiles in the North Atlantic Ocean [[paper](https://doi.org/10.1016/j.pocean.2016.12.008)]
 
 ### **Phenomenon Identification**
@@ -106,3 +107,6 @@ If you find some ignored papers, please open issues or pull requests. I'll be ap
 -  [**2020 | JAMES**] A Deep Learning Approach to Spatiotemporal Sea Surface Height Interpolation and Estimation of Deep Currents in Geostrophic Ocean Turbulence [[paper](https://doi.org/10.1029/2019MS001965)]
 -  [**2019 | Atmos. Chem. Phys.**] On the distinctiveness of observed oceanic raindrop distributions [[paper](https://acp.copernicus.org/articles/19/6969/2019/)]
 
+## **Benchmarks**
+-  [**2023 | ArXiv**] The rise of data-driven weather forecasting [[paper](https://arxiv.org/abs/2307.10128)]
+-  [**2020 | JAMES**] WeatherBench: a benchmark data set for data‐driven weather forecasting [[paper](https://doi.org/10.1029/2020MS002203)]
