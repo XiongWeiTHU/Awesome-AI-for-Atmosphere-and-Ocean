@@ -43,6 +43,7 @@ More paper will be updated soon.
 ## **Prediction**
 ### **Weather Prediction**
 -  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://www.researchgate.net/publication/372961184_AI-GOMS_Large_AI-Driven_Global_Ocean_Modeling_System)]
+-  [**2023 | Environmental Data Science**] AtmoDist: Self-supervised representation learning for atmospheric dynamics [[paper](https://www.cambridge.org/core/journals/environmental-data-science/article/atmodist-selfsupervised-representation-learning-for-atmospheric-dynamics/877CE83199C921B57C7966AF412C4272)]
 -  [**2023 | Nature**] Accurate medium-range global weather forecasting with 3D neural networks [[paper](https://www.nature.com/articles/s41586-023-06185-3)][[code](https://github.com/198808xc/Pangu-Weather)]
 -  [**2023 | Nature | Precipitation**] Skilful nowcasting of extreme precipitation with NowcastNet [[paper](https://www.nature.com/articles/s41586-023-06184-4)][[code](https://codeocean.com/capsule/3935105/tree/v1)]
 -  [**2023 | PNAS | Precipitation**] Implicit learning of convective organization explains precipitation stochasticity [[paper](https://www.pnas.org/doi/10.1073/pnas.2216158120)]
@@ -76,6 +77,8 @@ More paper will be updated soon.
 ## **Discovery**
 ### **Theory Discovery**
 -  [**2023 | ArXiv**] Discovering Causal Relations and Equations from Data [[paper](https://arxiv.org/abs/2305.13341)]
+-  [**2023 | ArXiv**] Data-Driven Equation Discovery of a Cloud Cover Parameterization [[paper](https://arxiv.org/abs/2304.08063)]
+-  [**2023 | ArXiv**] Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges [[paper](https://arxiv.org/abs/2306.05014)]
 -  [**2022 | Nature Communications**] A deep-learning estimate of the decadal trends in the Southern Ocean carbon storage [[paper](https://www.nature.com/articles/s41467-022-31560-5)]
 -  [**2022 | Transportation Research Procedia**] Analysis of spatio-temporal changes in Arctic Ocean ecosystem using machine learning and its impact on marine transportation system [[paper](https://doi.org/10.1016/j.trpro.2022.06.346)]
 -  [**2021 | Nature Communications**] Deep learning to infer eddy heat fluxes from sea surface height patterns of mesoscale turbulence [[paper](https://www.nature.com/articles/s41467-020-20779-9)]
