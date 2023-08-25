@@ -10,15 +10,15 @@ More paper will be updated soon.
     - [**Extreme Events**](#extreme-events)
     - [**Climate**](#climate)
     - [**Others**](#others)
-  - [**Modeling**](#modeling)
-    - [**Core**](#core)
-    - [**Parameterization**](#parameterization)
-    - [**Downscalling**](#downscalling)
-    - [**Correction**](#correction)
   - [**Discovery**](#discovery)
     - [**Theory Discovery**](#theory-discovery)
     - [**Phenomenon Identification**](#phenomenon-identification)
     - [**Data Complement**](#data-complement)
+  - [**Modeling**](#modeling)
+    - [**Core**](#core)
+    - [**Downscalling**](#downscalling)
+    - [**Correction**](#correction)
+    - [**Parameterization**](#parameterization)
   - [**Benchmarks**](#benchmarks)
   - [**Others**](#others)
 
@@ -71,47 +71,11 @@ More paper will be updated soon.
 -  [**2021 | Geophysical Research Letters | India Ocean Dipole**] Forecasting the Indian Ocean Dipole With Deep Learning Techniques [[paper](https://doi.org/10.1029/2021GL094407)]
 -  [**2020 | Nature Scientific Report | India Ocean Dipole**] A machine learning based prediction system for the Indian Ocean Dipole [[paper](https://www.nature.com/articles/s41598-019-57162-8)]
 ### **Others**
-## **Modeling**
-### **Core**
--  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://www.researchgate.net/publication/372961184_AI-GOMS_Large_AI-Driven_Global_Ocean_Modeling_System)]
--  [**2022 | Academic Dissertation**] Scientific Machine Learning for Dynamical Systems: Theory and Applications to Fluid Flow and Ocean Ecosystem Modeling [[paper](http://mseas.mit.edu/publications/PDF/gupta_phd_thesis_2022_09abs.pdf)]
--  [**2022 | Marine Science and Engineering**] Improving Ocean Forecasting Using Deep Learning and Numerical Model Integration [[paper](https://www.mdpi.com/2077-1312/10/4/450)]
--  [**2022 | Earth and Space Science**] Improving Numerical Model Predicted Float Trajectories by Deep Learning [[paper](https://doi.org/10.1029/2022EA002362)]
--  [**2022 | Journal of Comupational Physics**] Using Machine Learning at scale in numerical simulations with SmartSim: An application to ocean climate modeling [[paper](https://doi.org/10.1016/j.jocs.2022.101707)]
--  [**2020 | ArVix**] Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows [[paper](https://doi.org/10.48550/arXiv.2010.02866)]
--  [**2019 | ArXiv**] Learning Generalized Quasi-Geostrophic Models Using Deep Neural Numerical Models [[paper](https://arxiv.org/abs/1911.08856)]
--  [**2019 | J. Stat. Mech.: Theory Exp**] Deep learning for physical processes: incorporating prior scientific knowledge [[paper](https://iopscience.iop.org/article/10.1088/1742-5468/ab3195/meta)]
 
-### **Parameterization**
--  [**2019 | JAMES**] Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization [[paper](https://doi.org/10.1029/2018MS001472)]
--  [**2019 | JAMES**] Prognostic Validation of a Neural Network Unified Physics Parameterization [[paper](https://doi.org/10.1029/2018MS001472)]
--  [**2018 | Geophysical Research Letters**] Prognostic Validation of a Neural Network Unified Physics Parameterization [[paper](https://doi.org/10.1029/2018GL078510)]
--  [**2018 | PNAS**] Deep learning to represent subgrid processes in climate models [[paper](https://doi.org/10.1073/pnas.181028611)]
-
-#### **Cloud and Precipitation**
--  [**2021 | JAMES**] Machine Learning the Warm Rain Process [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002268)]
--  [**2020 | JAMES**] A Moist Physics Parameterization Based on Deep Learning [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002076)]
--  [**2018 | Geophysical Research Letters**] Could Machine Learning Break the Convection Parameterization Deadlock? [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078202)]
-#### **Turbulence**
--  [**2021 | Deep Learning for the Earth Sciences**] Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch20)]
--  [**2019 | PNAS**] Deep learning in turbulent convection networks [[paper](https://www.pnas.org/doi/10.1073/pnas.1900358116)]
-#### **Boundary Layer**
--  [**2023 | JAMES**] Deep Learning Parameterization of the Tropical Cyclone Boundary Layer [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003034)]
-#### **Radiative Transfer**
--  [**2022 | JAMES**] Exploring pathways to more accurate machine learning emulation of atmospheric radiative transfer [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002875)]
-#### **Others**
--  [**2022 | NSR**] Physics-informed deep-learning parameterization of ocean vertical mixing improves climate simulations [[paper](https://doi.org/10.1093/nsr/nwac044)]
-
-### **Downscalling**
--  [**2022 | ASCMO**] Deep learning for statistical downscaling of sea states [[paper](https://ascmo.copernicus.org/articles/8/83/2022/)]
--  [**2022 | JGR Solid Earth**] Applying a Deep Learning Algorithm to Tsunami Inundation Database of Megathrust Earthquakes [[paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JB019690)]
--  [**2021 | JAMES**] A Comparison of Data-Driven Approaches to Build Low-Dimensional Ocean Models [[paper](https://doi.org/10.1029/2021MS002537)]
-
-### **Correction**
--  [**2022 | JAMES**] Correcting Coarse-Grid Weather and Climate Models by Machine Learning From Global Storm-Resolving Simulations [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002794)]
 
 ## **Discovery**
 ### **Theory Discovery**
+-  [**2023 | ArXiv**] Discovering Causal Relations and Equations from Data [[paper](https://arxiv.org/abs/2305.13341)]
 -  [**2022 | Nature Communications**] A deep-learning estimate of the decadal trends in the Southern Ocean carbon storage [[paper](https://www.nature.com/articles/s41467-022-31560-5)]
 -  [**2022 | Transportation Research Procedia**] Analysis of spatio-temporal changes in Arctic Ocean ecosystem using machine learning and its impact on marine transportation system [[paper](https://doi.org/10.1016/j.trpro.2022.06.346)]
 -  [**2021 | Nature Communications**] Deep learning to infer eddy heat fluxes from sea surface height patterns of mesoscale turbulence [[paper](https://www.nature.com/articles/s41467-020-20779-9)]
@@ -133,6 +97,51 @@ More paper will be updated soon.
 -  [**2020 | JAMES**] A Deep Learning Approach to Spatiotemporal Sea Surface Height Interpolation and Estimation of Deep Currents in Geostrophic Ocean Turbulence [[paper](https://doi.org/10.1029/2019MS001965)]
 -  [**2019 | Atmos. Chem. Phys.**] On the distinctiveness of observed oceanic raindrop distributions [[paper](https://acp.copernicus.org/articles/19/6969/2019/)]
 
+
+## **Modeling**
+### **Core**
+-  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://www.researchgate.net/publication/372961184_AI-GOMS_Large_AI-Driven_Global_Ocean_Modeling_System)]
+-  [**2022 | Academic Dissertation**] Scientific Machine Learning for Dynamical Systems: Theory and Applications to Fluid Flow and Ocean Ecosystem Modeling [[paper](http://mseas.mit.edu/publications/PDF/gupta_phd_thesis_2022_09abs.pdf)]
+-  [**2022 | Marine Science and Engineering**] Improving Ocean Forecasting Using Deep Learning and Numerical Model Integration [[paper](https://www.mdpi.com/2077-1312/10/4/450)]
+-  [**2022 | Earth and Space Science**] Improving Numerical Model Predicted Float Trajectories by Deep Learning [[paper](https://doi.org/10.1029/2022EA002362)]
+-  [**2022 | Journal of Comupational Physics**] Using Machine Learning at scale in numerical simulations with SmartSim: An application to ocean climate modeling [[paper](https://doi.org/10.1016/j.jocs.2022.101707)]
+-  [**2020 | ArVix**] Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows [[paper](https://doi.org/10.48550/arXiv.2010.02866)]
+-  [**2019 | ArXiv**] Learning Generalized Quasi-Geostrophic Models Using Deep Neural Numerical Models [[paper](https://arxiv.org/abs/1911.08856)]
+-  [**2019 | J. Stat. Mech.: Theory Exp**] Deep learning for physical processes: incorporating prior scientific knowledge [[paper](https://iopscience.iop.org/article/10.1088/1742-5468/ab3195/meta)]
+
+### **Downscalling**
+-  [**2022 | ASCMO**] Deep learning for statistical downscaling of sea states [[paper](https://ascmo.copernicus.org/articles/8/83/2022/)]
+-  [**2022 | JGR Solid Earth**] Applying a Deep Learning Algorithm to Tsunami Inundation Database of Megathrust Earthquakes [[paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JB019690)]
+-  [**2021 | JAMES**] A Comparison of Data-Driven Approaches to Build Low-Dimensional Ocean Models [[paper](https://doi.org/10.1029/2021MS002537)]
+
+### **Correction**
+-  [**2022 | JAMES**] Correcting Coarse-Grid Weather and Climate Models by Machine Learning From Global Storm-Resolving Simulations [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002794)]
+
+### **Parameterization**
+-  [**2019 | JAMES**] Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization [[paper](https://doi.org/10.1029/2018MS001472)]
+-  [**2019 | JAMES**] Prognostic Validation of a Neural Network Unified Physics Parameterization [[paper](https://doi.org/10.1029/2018MS001472)]
+-  [**2018 | Geophysical Research Letters**] Prognostic Validation of a Neural Network Unified Physics Parameterization [[paper](https://doi.org/10.1029/2018GL078510)]
+-  [**2018 | PNAS**] Deep learning to represent subgrid processes in climate models [[paper](https://doi.org/10.1073/pnas.181028611)]
+
+#### **Cloud and Precipitation**
+-  [**2021 | JAMES**] Machine Learning the Warm Rain Process [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002268)]
+-  [**2020 | JAMES**] A Moist Physics Parameterization Based on Deep Learning [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002076)]
+-  [**2018 | Geophysical Research Letters**] Could Machine Learning Break the Convection Parameterization Deadlock? [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078202)]
+#### **Mesoeddies**
+
+#### **Turbulence**
+-  [**2021 | Deep Learning for the Earth Sciences**] Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch20)]
+-  [**2019 | PNAS**] Deep learning in turbulent convection networks [[paper](https://www.pnas.org/doi/10.1073/pnas.1900358116)]
+#### **Boundary Layer**
+-  [**2023 | JAMES**] Deep Learning Parameterization of the Tropical Cyclone Boundary Layer [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003034)]
+#### **Radiative Transfer**
+-  [**2022 | JAMES**] Exploring pathways to more accurate machine learning emulation of atmospheric radiative transfer [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002875)]
+#### **Others**
+-  [**2022 | NSR**] Physics-informed deep-learning parameterization of ocean vertical mixing improves climate simulations [[paper](https://doi.org/10.1093/nsr/nwac044)]
+
+
+
 ## **Benchmarks**
+-  [**2023 | JAMES**] Benchmarking of Machine Learning Ocean Subgrid Parameterizations in an Idealized Model [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003258)]
 -  [**2023 | ArXiv**] The rise of data-driven weather forecasting [[paper](https://arxiv.org/abs/2307.10128)]
 -  [**2020 | JAMES**] WeatherBench: a benchmark data set for data‐driven weather forecasting [[paper](https://doi.org/10.1029/2020MS002203)]
