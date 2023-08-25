@@ -45,6 +45,7 @@ More paper will be updated soon.
 -  [**2023 | ArXiv**] AI-GOMS: Large AI-Driven Global Ocean Modeling System [[paper](https://www.researchgate.net/publication/372961184_AI-GOMS_Large_AI-Driven_Global_Ocean_Modeling_System)]
 -  [**2023 | Nature**] Accurate medium-range global weather forecasting with 3D neural networks [[paper](https://www.nature.com/articles/s41586-023-06185-3)][[code](https://github.com/198808xc/Pangu-Weather)]
 -  [**2023 | Nature | Precipitation**] Skilful nowcasting of extreme precipitation with NowcastNet [[paper](https://www.nature.com/articles/s41586-023-06184-4)][[code](https://codeocean.com/capsule/3935105/tree/v1)]
+-  [**2023 | PNAS | Precipitation**] Implicit learning of convective organization explains precipitation stochasticity [[paper](https://www.pnas.org/doi/10.1073/pnas.2216158120)]
 -  [**2023 | Nature Machine Intelligence | Precipitation**] Interpretable weather forecasting for worldwide stations with a unified deep model [[paper](https://www.nature.com/articles/s42256-023-00667-9)][[code](https://github.com/thuml/Corrformer)]
 -  [**2023 | ArXiv**] FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead [[paper](https://arxiv.org/abs/2304.02948)]
 -  [**2023 | Nature | Extreme Precipitation**] Skilful nowcasting of extreme precipitation with NowcastNet [[paper](https://www.nature.com/articles/s41586-023-06184-4)]
