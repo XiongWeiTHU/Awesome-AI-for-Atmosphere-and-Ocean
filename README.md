@@ -34,6 +34,8 @@ More paper will be updated soon.
 -  [**2021 | Multimedia Systems**] Application of machine learning in ocean data [[paper](https://link.springer.com/article/10.1007/s00530-020-00733-x)]
 -  [**2021 | Environmental Research Letters**] Bridging observations, theory and numerical simulation of the ocean using machine learning [[paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac0eb0)]
 -  [**2021 | Phil. Trans. R. Soc. A**] Climbing down Charney’s ladder: machine learning and the post-Dennard era of computational climate science [[paper](https://doi.org/10.1098/rsta.2020.0085)]
+-  [**2021 | Phil. Trans. R. Soc. A**] Can deep learning beat numerical weather prediction? [[paper](https://doi.org/10.1098/rsta.2020.0097)]
+-  [**2021 | Phil. Trans. R. Soc. A**] Physics-informed machine learning: case studies for weather and climate modelling [[paper](https://doi.org/10.1098/rsta.2020.0093)]
 -  [**2020 | National Science Review**] Deep-learning-based information mining from ocean remote-sensing imagery [[paper](https://academic.oup.com/nsr/article/7/10/1584/5809984)]
 -  [**2019 | Visual Informatics**] A survey on visual analysis of ocean data [[paper](https://doi.org/10.1016/j.visinf.2019.08.001)]
 -  [**2018 | Acta Numerica**] Challenges and design choices for global weather and climate models based on machine learning [[paper](https://gmd.copernicus.org/articles/11/3999/2018/)]
